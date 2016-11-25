@@ -231,4 +231,11 @@ body{
     		height: 40px;
 		line-height: 42px;
 	}
+	.content .text {
+	    width: 200px;
+	}
+	.content .text .profile-photo {
+	    width: 200px;
+	    height: 200px;
+	}
 }
