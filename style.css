@@ -211,4 +211,20 @@ body{
 	.container-home .text .home-text {
 		font-size: 11px;
 	}
+ 	.container-home .linkedin {
+    		width: 25px;
+    		height: 25px;
+	}
+ 	.container-home .github {
+    		width: 25px;
+    		height: 25px;
+	}
+ 	.container-home .stackoverflow {
+    		width: 25px;
+    		height: 25px;
+	}
+ 	.container-home .twitter {
+    		width: 25px;
+    		height: 25px;
+	}
 }
