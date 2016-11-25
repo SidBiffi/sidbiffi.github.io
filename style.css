@@ -209,22 +209,26 @@ body{
     font-size: 40px;
 	}
 	.container-home .text .home-text {
-		font-size: 11px;
+		font-size: 10px;
 	}
  	.container-home .linkedin {
-    		width: 25px;
-    		height: 25px;
+    		width: 40px;
+    		height: 40px;
+		line-height: 42px;
 	}
  	.container-home .github {
-    		width: 25px;
-    		height: 25px;
+    		width: 40px;
+    		height: 40px;
+		line-height: 42px;
 	}
  	.container-home .stackoverflow {
-    		width: 25px;
-    		height: 25px;
+    		width: 40px;
+    		height: 40px;
+		line-height: 42px;
 	}
  	.container-home .twitter {
-    		width: 25px;
-    		height: 25px;
+    		width: 40px;
+    		height: 40px;
+		line-height: 42px;
 	}
 }
