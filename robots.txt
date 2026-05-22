@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: http://sidbiffi.it/sitemap.xml
+sitemap: https://sidbiffi.it/sitemap.xml
